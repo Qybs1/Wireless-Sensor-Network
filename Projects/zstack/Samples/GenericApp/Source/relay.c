@@ -20,15 +20,10 @@ void RelyCtrl(uint8_t cmd)
 	switch(cmd)
 	{
 		case RELY_OFF:
-
-			RelayOn();
-			
-		
+			RelayOff();
 			break;
 		case RELY_ON:
-
-			RelayOff();
-			
+			RelayOn();			
 			break;
 		default:
 			break;
