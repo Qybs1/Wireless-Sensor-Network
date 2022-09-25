@@ -47,11 +47,12 @@ Access to the server through a web browser for login, registration, database ope
 
   - boa
   - mjepg-streamer
-  - Master Control Program
+  - mainthread
+  `./mainthread/zigbee`
   - Camera Driver
   - Uart Driver
 
-- CC2530
+- ### CC2530
 
   - Zigbee
   - Data Information
