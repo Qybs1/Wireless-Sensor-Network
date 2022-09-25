@@ -47,7 +47,8 @@ Access to the server through a web browser for login, registration, database ope
 
   - boa
   `./boa/boa-0.94.13/src/boa`
-  - mjepg-streamer
+  - mjpg-streamer
+  ./mjpg-stream/start.sh
   - mainthread
   `./mainthread/zigbee`
   - Camera Driver
